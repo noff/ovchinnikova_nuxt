@@ -1,0 +1,15 @@
+@import 'colors';
+@import 'grid';
+@import 'typography';
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'buttons';
+@import 'navbar';
+@import 'hero';
+@import 'book';
+@import 'body';
+
+#__nuxt {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
