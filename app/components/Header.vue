@@ -10,22 +10,22 @@
       <div class="collapse navbar-collapse" id="menu">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item me-xl-3">
-            <a class="nav-link" aria-current="page" href="/about">Обо мне</a>
+            <a class="nav-link text-uppercase" aria-current="page" href="/about">Обо мне</a>
           </li>
           <li class="nav-item me-xl-3">
-            <a class="nav-link" aria-current="page" href="/books">Книги</a>
+            <a class="nav-link text-uppercase" aria-current="page" href="/books">Книги</a>
           </li>
           <li class="nav-item me-xl-3">
-            <a class="nav-link" aria-current="page" href="/librarians">Библиотекарям и учителям</a>
+            <a class="nav-link text-uppercase" aria-current="page" href="/librarians">Библиотекарям и учителям</a>
           </li>
           <li class="nav-item me-xl-3">
-            <a class="nav-link" aria-current="page" href="/read_free">Бесплатно</a>
+            <a class="nav-link text-uppercase" aria-current="page" href="/read_free">Бесплатно</a>
           </li>
           <li class="nav-item me-xl-3">
-            <a class="nav-link" aria-current="page" href="/audio_video">Аудио и ТВ</a>
+            <a class="nav-link text-uppercase" aria-current="page" href="/audio_video">Аудио и ТВ</a>
           </li>
           <li class="nav-item me-xl-3">
-            <a class="nav-link" aria-current="page" href="/contacts">Контакты</a>
+            <a class="nav-link text-uppercase" aria-current="page" href="/contacts">Контакты</a>
           </li>
         </ul>
         <div>

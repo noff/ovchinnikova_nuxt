@@ -1,10 +1,14 @@
 $font-family-sans-serif:      Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
-$font-size-base:              1.1rem !default;
+$font-size-base:              1.3rem !default;
 
 $headings-font-weight:        700 !default;
 $headings-font-family:        Podkova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 $display-line-height:         .9em !default;
 $headings-line-height:         1.1em !default;
+
+$nav-link-font-size:          0.7em;
+$nav-link-font-weight:        700;
+$nav-link-colo:               rgba(33,37,41,0.65);
