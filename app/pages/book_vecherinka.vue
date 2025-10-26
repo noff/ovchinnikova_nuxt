@@ -7,7 +7,7 @@
 
         <div class="col-md-4">
           <div class="mb-3">
-            <img src="/images/books/book-vecherinka@2x.jpg" alt="Вечеринка с карликами" class="img-fluid" />
+            <img src="/images/books/book-vecherinka@2x.jpg" alt="Вечеринка с карликами" class="img-fluid book-img" />
           </div>
           <div class="mb-3 d-grid">
             <a href="https://www.litres.ru/static/or4/view/or.html?baseurl=/pub/t/51938447.&art=51938447&trials=1&user=0&file=62518250&price=120.00&texttrialbutton=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E%20%D0%B7%D0%B0%20120.00&uilang=ru&catalit2&half=1&track_reading&friendly_url=%2Falina-pozharskaya-22483639%2Fvecherinka-s-karlikami-i-drugie-rasskazy%2F" target="_blank" class="btn btn-primary btn-lg">Читать отрывок</a>

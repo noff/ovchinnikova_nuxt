@@ -1,0 +1,59 @@
+<template>
+  <section>
+    <PageTitle title="Обычные люди" second-url="/books" second-label="Книги" />
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="mb-3">
+            <img src="/images/books/common-people@2x.jpg" alt="Обычные люди" class="img-fluid book-img" />
+          </div>
+          <div class="mb-3 d-grid">
+            <a href="https://www.litres.ru/evgeniya-ovchinnikova/obychnye-ludi/chitat-onlayn/" target="_blank" class="btn btn-primary btn-lg">Читать отрывок</a>
+          </div>
+          <div>ISBN: 978-5-00083-744-3</div>
+          <div>Серия: “Иди и возвращайся”</div>
+          <div>Издательство КомпасГид, 2021 г.</div>
+          <hr class="my-4 py-0">
+          <h4>Купить бумажную книгу</h4>
+          <div class="d-flex justify-content-between py-2">
+            <a href="https://www.labirint.ru/books/793367/" target="_blank">Labirint.ru</a>
+            <span class="fw-bold">1079 ₽</span>
+          </div>
+          <div class="d-flex justify-content-between py-2">
+            <a href="https://www.moscowbooks.ru/book/1069864/" target="_blank">Москва</a>
+            <span class="fw-bold">1228 ₽</span>
+          </div>
+          <hr class="my-4 py-0">
+          <h4>Скачать электронную книгу</h4>
+          <div class="d-flex justify-content-between py-2">
+            <a href="https://www.litres.ru/evgeniya-ovchinnikova/obychnye-ludi/" target="_blank">Litres.ru</a>
+            <span class="fw-bold">389 ₽</span>
+          </div>
+          <hr class="my-4 py-0">
+          <h4>Читать отрывок</h4>
+          <div class="d-flex justify-content-between py-2">
+            <a href="https://www.litres.ru/evgeniya-ovchinnikova/obychnye-ludi/chitat-onlayn/" target="_blank">Litres.ru</a>
+          </div>
+          <hr class="my-4 py-0">
+        </div>
+
+        <div class="col-md-8">
+          <p>Детективно-приключенческий триллер, завершающий трилогию «Иди и возвращайся». Читается как отдельное произведение.</p>
+          <p>Прошло четыре года с момента последних приключений на Сицилии. Нина с семьей живет теперь в Сан-Франциско и учится в художественном колледже. Она избавилась от преследующих ее чудовищ, вышла из кризиса и наладила отношения с родителями. У нее новые друзья, дом с собственной мастерской и смешная собака. Но в день открытия ее персональной выставки происходит чудовищное - прямо посреди блестящего вечера похищают девочку, ровесницу Нины. После этого все рушится. Нине приходится бежать, менять города и страны, скрываться и драться. Но самое главное - она узнает тайну своего происхождения.</p>
+          <p>Сумасшедшее путешествие по земному шару на пути к городу, в котором все началось и в котором разрешится главная загадка книги.</p>
+          <p>Не без сожаления прощаюсь с героиней и ее семьей, но героиня выросла, преодолела все сложности и должна жить своей жизнью, без создателя и читателей. Я писала эту книгу с любовью к героям и к каждому городу, улице и дому, в котором происходит действие.</p>
+          <p>Для среднего школьного возраста и старше.</p>
+          <ul>
+            <li>Полуфиналист Всероссийского конкурса на лучшее произведение для детей и юношества «Книгуру» в 2019-м году.</li>
+            <li>Входит в каталог 100 лучших книг для детей и подростков, рекомендованных РГДБ им. Гайдара.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script setup lang="ts">
+</script>

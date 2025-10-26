@@ -1,0 +1,51 @@
+<template>
+  <section>
+    <PageTitle title="Сокровища" second-url="/books" second-label="Книги" />
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="mb-3">
+            <img src="/images/books/book-treasure@2x.jpg" alt="Сокровища" class="img-fluid book-img" />
+          </div>
+
+          <h4>Купить бумажную книгу</h4>
+          <BuyBook shop="Сайт издательства" url="https://albuscorvus.ru/product/sokrovishha/" />
+          <BuyBook shop="WB" url="https://www.wildberries.ru/catalog/176850360/detail.aspx?targetUrl=MS&size=292928037" />
+          <BuyBook shop="Лабиринт" url="https://www.labirint.ru/books/982339/" />
+          <hr class="my-4 py-0">
+
+          <h4>Скачать электронную книгу</h4>
+          <BuyBook shop="Litres.ru" url="https://www.litres.ru/book/evgeniya-ovchinnikova/sokrovischa-70786066/chitat-onlayn/" />
+          <hr class="my-4 py-0">
+        </div>
+
+        <div class="col-md-8">
+
+          <p>Реалистичная повесть о девочке Асе, которая проводит лето в деревне в семье тети. В большой семье каждый занят своим делом. Ася хранит и перепрятывает сокровища и воюет со злым индюком. Тетя делает коньяк из самогона и мечтает заработать на его продаже. Дядя не может решить, ломать ли сарай или чинить. Двоюродные сестры-подростки бесконечно красятся и болтают о мальчиках. Старшая сестра приезжает из города, молча ложится на кровать, несколько недель не встает и не рассказывает, почему. А бабушка...</p>
+          <p>Каждого персонажа я хранила у себя в голове и оберегала, как сокровище. А теперь дарю их вам. Эта книга полна счастья и радости, их я черпала из самой глубины души, оттуда, где сохранились нежные и нетронутые взрослой жизнью воспоминания любимых людях.</p>
+          <p>Действие происходит в середине девяностых в безымянной деревне в Северном Казахстане.</p>
+
+          <ul>
+            <li>Лауреат конкурса "Белая ворона" в 2022-м году.</li>
+            <li>Финалист Всероссийского конкурса на лучшее произведение для детей и юношества «Книгуру» в 2022-м году.</li>
+            <li>Финалист литературной премии имени Самуила Маршака.</li>
+            <li>Полуфиналист литературной премии имени Корнея Чуковского.</li>
+            <li>Входит в каталог 100 лучших книг для детей и подростков, рекомендованных РГДБ им. Гайдара.</li>
+          </ul>
+
+          <div class="mt-5">
+            <img src="~/assets/images/treasure-long.svg" class="me-3" />
+            <img src="~/assets/images/treasure-catalog.svg" class="me-3" />
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script setup lang="ts">
+import BuyBook from "~/components/BuyBook.vue";
+</script>

@@ -7,7 +7,7 @@
 
         <div class="col-md-4">
           <div class="mb-3">
-            <img src="/images/books/book-dont-tell@2x.jpg" alt="Никому не рассказывай" class="img-fluid" />
+            <img src="/images/books/book-dont-tell@2x.jpg" alt="Никому не рассказывай" class="img-fluid book-img" />
           </div>
           <div class="mb-3 d-grid">
             <a href="https://www.labirint.ru/books/789744/" target="_blank" class="btn btn-primary btn-lg">Купить</a>
