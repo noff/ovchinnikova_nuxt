@@ -38,5 +38,12 @@
 
   </section>
 </template>
+
 <script setup lang="ts">
+useHead({
+  title: 'Читать бесплатно – Евгения Овчинникова, писательница',
+  meta: [
+    { name: 'description', content: 'Список текстов, которые можно прочитать легально бесплатно.' },
+  ],
+})
 </script>

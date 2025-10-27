@@ -141,4 +141,11 @@
   </section>
 </template>
 <script setup lang="ts">
+
+useHead({
+  title: 'Книги – Евгения Овчинникова, писательница',
+  meta: [
+    { name: 'description', content: 'Полная подборка книг Евгении Овчинниковой' },
+  ],
+})
 </script>

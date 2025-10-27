@@ -32,4 +32,11 @@
   </section>
 </template>
 <script setup lang="ts">
+
+useHead({
+  title: 'Мои контакты – Евгения Овчинникова, писательница',
+  meta: [
+    { name: 'description', content: 'Как со мной связаться и мои паблики' },
+  ],
+})
 </script>
