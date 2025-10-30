@@ -73,3 +73,18 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## Deploy
+
+Build:
+
+```
+npm run generate
+```
+
+Upload to S3:
+
+```
+rsync -azv .output/public/ static@arch:/home/static/ovchinnikova.ru/
+```
