@@ -1,5 +1,7 @@
 # Nuxt Minimal Starter
 
+Node version 24 is required.
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
