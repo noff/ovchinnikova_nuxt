@@ -8,7 +8,7 @@
         <CatalogBook
             title="Хрустальные города"
             url="/book_hrustalnye_goroda"
-            type="Роман"
+            type="Повесть"
             year="2025"
             publisher=""
             cover="/images/books/book-hrustalnye-goroda@2x.jpg">
