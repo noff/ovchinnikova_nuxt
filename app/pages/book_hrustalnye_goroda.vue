@@ -19,6 +19,10 @@
           <div class="d-flex justify-content-between py-2">
             <a href="https://www.wildberries.ru/catalog/771153833/detail.aspx" target="_blank">WB</a>
           </div>
+          <h4>Читать электронную книгу</h4>
+          <div class="d-flex justify-content-between py-2">
+            <a href="https://books.yandex.ru/books/VMJkvrDC" target="_blank">Яндекс.Книги</a>
+          </div>
 
           <hr class="my-4 py-0">
         </div>
