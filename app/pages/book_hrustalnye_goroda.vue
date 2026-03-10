@@ -24,6 +24,9 @@
           <div class="d-flex justify-content-between py-2">
             <a href="https://books.yandex.ru/books/VMJkvrDC" target="_blank">Яндекс.Книги</a>
           </div>
+          <div class="d-flex justify-content-between py-2">
+            <a href="https://www.litres.ru/book/evgeniya-ovchinnikova/hrustalnye-goroda-73434593/" target="_blank">Litres.ru</a>
+          </div>
 
           <hr class="my-4 py-0">
         </div>
