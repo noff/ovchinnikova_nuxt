@@ -49,16 +49,6 @@
       </IndexBook>
 
       <IndexBook
-          title="Хрустальные города"
-          url="/book_hrustalnye_goroda"
-          type="Повесть"
-          year="2025"
-          publisher=""
-          cover="/images/books/book-hrustalnye-goroda@2x.jpg">
-        <p>Мне всегда хотелось написать о первой любви, именно как она начинается - с первого взгляда, улыбки, с первого движения друг к другу и до пожара, в котором горят герой и героиня.</p>
-      </IndexBook>
-
-      <IndexBook
           title="220 метров"
           url="/book_220_metrov"
           type="Роман"
